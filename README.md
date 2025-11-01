@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharunmamidipally" alt="tharunmamidipally" /></a> </p>
 
-- 🔭 I’m currently working on [Socials- A Student Community](https://socialsapp.vercel.app/)
+- 🔭 I’m currently working on [Socials- A Student Community Platform](https://socialsapp.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tharunmamidipally/](https://github.com/tharunmamidipally/)
 
